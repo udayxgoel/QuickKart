@@ -7,7 +7,7 @@
 
 ## Introduction
 
-This is a clone of the Amazon website, created to enhance my web development skills using HTML and CSS. The project replicates the layout and design of Amazon's homepage.
+This is a clone of the Ecommerce website, created to enhance my web development skills using HTML and CSS. The project replicates the layout and design of QuickKart's homepage.
 
 ## Features
 
@@ -18,15 +18,21 @@ This is a clone of the Amazon website, created to enhance my web development ski
 
 ## Installation
 
-To run the amazon clone locally, follow these steps:
+To run the QuickKart locally, follow these steps:
 
 1. Clone the repository:
-    ```sh
-   git clone https://github.com/udayxgoel/amazon-clone.git
+
+   ```sh
+   git clone https://github.com/udayxgoel/QuickKart.git
+
+   ```
 
 2. Navigate to the project directory:
-    ```sh
-    cd amazon-clone
+
+   ```sh
+   cd QuickKart
+
+   ```
 
 3. Open index.html in your web browser.
 
